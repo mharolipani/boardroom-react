@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    --bs-light-rgb: 146,146,145;
+    background: url("/images/The_Boardroom_background.jpg") no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  #main-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #content {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navbar {
+    --bs-navbar-brand-color: white;
+  }
+  
+  footer {
+    color: black;
+  }
+  
