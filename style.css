@@ -1,0 +1,13 @@
+body {
+    --bs-light-rgb: 146,146,145;
+    background: url("The_Boardroom_background.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.navbar {
+    --bs-navbar-brand-color: white;
+}
+
+footer {
+    color: black;
+}
